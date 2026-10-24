@@ -3,17 +3,17 @@
    ========================================================================== */
 
 :root {
-  --color-page-bg: #353205;
-  --color-card-bg-top: #383400;
-  --color-card-bg-bottom: #312e02;
-  --color-card-fallback: #353205;
-  --color-button-bg: #6c650f;
-  --color-button-hover: #7b7313;
-  --color-button-active: #5f580b;
+  --color-page-bg: #0a1128;
+  --color-card-bg-top: #152244;
+  --color-card-bg-bottom: #0c1630;
+  --color-card-fallback: #101c3b;
+  --color-button-bg: #1e3a6a;
+  --color-button-hover: #264a85;
+  --color-button-active: #172d54;
   --color-text-white: #ffffff;
-  --color-text-muted: #e6e4d4;
-  --color-text-subtle: #c8c5a9;
-  --color-options-dots: rgba(255, 255, 255, 0.65);
+  --color-text-muted: #d4e0f2;
+  --color-text-subtle: #9cb1d4;
+  --color-options-dots: rgba(255, 255, 255, 0.7);
   
   --font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
